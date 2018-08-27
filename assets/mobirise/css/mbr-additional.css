@@ -1855,9 +1855,100 @@ body {
 .cid-r11InbpC6F .mbr-section-title {
   color: #073b4c;
 }
-.cid-qTkAaeaxX5 {
+.cid-r11InbpC6F .mbr-section-title B {
+  color: #073b4c;
+}
+.cid-r1WUIVwDqk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/00000img-00000-burst20180823201958233-cover-2000x1500.jpg");
+}
+.cid-r1WUIVwDqk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r1WUIVwDqk .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-r1WUIVwDqk .mbr-text {
+  color: #767676;
+}
+.cid-r1WUIVwDqk .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-r1WUIVwDqk .mbr-author-name {
+  color: #767676;
+}
+.cid-r1WUIVwDqk .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-r1WUIVwDqk .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-r1WUIVwDqk .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-r1WUIVwDqk .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-r1WUIVwDqk .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-r1WUIVwDqk .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-r1WZ2QD0v9 {
   padding-top: 75px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r1WZ2QD0v9 .title {
+  margin-bottom: 2rem;
+}
+.cid-r1WZ2QD0v9 .mbr-section-subtitle {
+  color: #0f7699;
+}
+.cid-r1WZ2QD0v9 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r1WZ2QD0v9 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r1WZ2QD0v9 .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r1WZ2QD0v9 .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-r1WZ2QD0v9 .mbr-section-subtitle B {
+  color: #0f0808;
+}
+.cid-qTkAaeaxX5 {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
