@@ -1860,12 +1860,12 @@ body {
   color: #073b4c;
 }
 .cid-r11InbpC6F .mbr-section-title B {
-  color: #073b4c;
+  color: #0f0808;
 }
 .cid-r1WUIVwDqk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/yanshufim-1024x768.jpg");
+  background-image: url("../../../assets/images/img-20180712-213727-2000x1500.jpg");
 }
 .cid-r1WUIVwDqk .mbr-section-subtitle {
   color: #767676;
@@ -1919,6 +1919,9 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-r1WUIVwDqk B {
+  color: #0f0808;
 }
 .cid-r1WZ2QD0v9 {
   padding-top: 75px;
